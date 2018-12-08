@@ -1,0 +1,76 @@
+.zc{
+	height: 60px;
+	width: 1200px;
+	margin: 20px auto;
+    border-bottom: 2px solid #b1191a;
+}
+.new{
+	height: 42px;
+	width: 1200px;
+	margin: 0 auto;
+	background-color: #ececec;
+	border: 1px solid #dfdfdf;  
+}
+.new h3{
+	float: left;
+	line-height: 42px;
+	font-size: 18px;
+	margin-left: 10px;
+	font-weight: 200; 
+}
+.new p{
+	float: right;
+	line-height: 42px;
+	font-size: 14px; 
+	margin-right: 10px; 
+}
+.new p a{
+	color: #c81623;
+}
+.txt{
+	width: 350px;
+	margin: 50px auto;
+}
+.txt input{
+	width: 240px;
+	height: 36px;
+	margin-bottom: 20px;
+}
+.txt .input input{
+	width: 16px;
+	height: 16px;
+	margin-top: 25px;
+	margin-left: 80px;
+}
+.input span{
+	font-size: 12px;
+}
+.input a{
+	color: #38a8e8;
+}
+.txt button{
+	width: 200px;
+	height: 35px;
+	background-color: #c81623;
+	color: white;
+	margin-left: 100px;
+	margin-top: 20px;
+}
+.end {
+	width: 1200px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 50px 0;
+    color: #999;
+    font-size: 14px;
+    border-top: 1px solid #eee;
+}
+
+.end a {
+    color: #999;
+    margin-left: 10px;
+}
+.end span{
+	margin: 0 15px;
+}
